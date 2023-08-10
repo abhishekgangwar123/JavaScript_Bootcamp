@@ -1,0 +1,16 @@
+Primitive Data Types :
+
+Primitive data types are a set of basic datatypes in javascript. There are 7 Primitive datatypes in javascript:-{nn bb ss u}
+
+1. Null
+2. Number
+3. String
+4. Symbol
+5. Undefined
+6. Boolean 
+7. BigInt
+
+
+Objects :
+
+objects are the key value pairs
