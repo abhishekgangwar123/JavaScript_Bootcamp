@@ -1,0 +1,52 @@
+LOOPS :
+
+The JavaScript loops are used to iterate the piece of code using for, while, do while or for-in loops. It makes the code compact. It is mostly used in array.
+
+There are four types of loops in JavaScript.
+
+1. for loop
+2. for-in loop
+3. while loop
+4. do-while loop
+
+
+------------For loop--------------
+The JavaScript for loop iterates the elements for the fixed number of times. It should be used if number of iteration is known. The syntax of for loop is given below.
+
+for (initialization; condition; increment)  
+{  
+    code to be executed  
+} 
+
+example :
+
+for (statement 1; statement 2; statement 3){
+    code
+}
+
+-> statement 1 will execute one time.
+-> statement 2 is the condition on which the loop runs (loop body is executed).
+-> statement 3 is excuted everytime the loop body is excuted.
+
+-----------for-in loop------------
+The JavaScript for in loop is used to iterate the properties of an object. We will discuss about it later.
+
+
+-----------while loop-------------
+
+The JavaScript while loop iterates the elements for the infinite number of times. It should be used if number of iteration is not known. The syntax of while loop is given below.
+// in this first the condition is checked anf then the block is run. 
+
+while (condition)  
+{  
+    code to be executed  
+}  
+
+NOTE : If the conditionnever becomes false , the loop will never end and this might crash the runtime.
+-----------do-while loop-----------
+The JavaScript do while loop iterates the elements for the infinite number of times like while loop. But, code is executed at least once whether condition is true or false. The syntax of do while loop is given below.
+// in this first the block is run and the condition is checked.
+
+do{  
+    code to be executed  
+}while (condition);  
