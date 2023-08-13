@@ -1,0 +1,9 @@
+Conditional Statement :
+
+Conditional statements control behavior in JavaScript and determine whether or not pieces of code can run. There are multiple different types of conditionals in JavaScript including: “If” statements: where if a condition is true it is used to specify execution for a block of code.
+
+there are three types of conditional statements:
+
+1. if Statement
+2. if...else statement
+3. if...else if....else statement
